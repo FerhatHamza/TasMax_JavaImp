@@ -10,3 +10,6 @@ Remarque:
   - To run the project from the command line, go to the dist folder and type the following:
 
                   java -jar "TasMaxImp.jar" 
+
+
+![capture](https://github.com/FerhatHamza/TasMax_JavaImp/blob/master/19.png)
